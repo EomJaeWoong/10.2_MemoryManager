@@ -1,0 +1,4 @@
+LEAK       [0x00437bc8] [       4]                                                                                             main.cpp : 5
+NOALLOC    [0x00008123]
+ARRAY      [0x00437bf0] [     120]                                                                                             main.cpp : 7
+LEAK       [0x004304a0] [       8]                                                                                             main.cpp : 8

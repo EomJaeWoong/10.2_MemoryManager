@@ -1,0 +1,4 @@
+LEAK       [0x00817bc8] [       4]             c:\users\user\documents\visual studio 2013\projects\memorymanager\memorymanager\main.cpp : 5
+NOALLOC    [0x00008123]
+ARRAY      [0x00817bf0] [     120]             c:\users\user\documents\visual studio 2013\projects\memorymanager\memorymanager\main.cpp : 7
+LEAK       [0x008104a0] [       8]             c:\users\user\documents\visual studio 2013\projects\memorymanager\memorymanager\main.cpp : 8
